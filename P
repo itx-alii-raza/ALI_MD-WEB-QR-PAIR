@@ -1,0 +1,7 @@
+echo "# ALI_MD-WEB-QR-PAIR" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/itx-alii-raza/ALI_MD-WEB-QR-PAIR.git
+git push -u origin main
